@@ -18,3 +18,6 @@ then "cd Blender-3D-stuff"
 and run ". blenderdocker.sh".
 
 Then just follow instructions.
+
+# /dirlocation/Desktop/bathrender.blend
+# /dirlocation/Desktop/anglerender.py

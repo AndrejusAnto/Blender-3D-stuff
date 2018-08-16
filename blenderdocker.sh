@@ -38,3 +38,13 @@ tar -xf blender* --checkpoint=.100
 rm *.bz2
 
 cd blender*
+
+echo "Where is a blend. file? (if your script don't set up ligthing, camera and so on)
+
+read blend
+
+echo "Where is a python file?"
+
+read pyscript
+
+./blender blend --background --python pyscript
