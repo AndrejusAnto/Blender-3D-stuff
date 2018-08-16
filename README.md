@@ -16,3 +16,5 @@ then git clone https://github.com/Orasporas/Blender-3D-stuff.git (or with ssh),
 then "cd Blender-3D-stuff" 
 
 and run ". blenderdocker.sh".
+
+Then just follow instructions.
