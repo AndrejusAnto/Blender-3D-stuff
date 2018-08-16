@@ -1,5 +1,5 @@
 # Blender-3D-stuff
-This script will install needed dependecies for Blender (command line) and downloads Blender (standalone) to work in Docker container (only for Linux, Ubuntu based distros). You have to have installed Docker https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce-1 and run "docker run -it --rm -v "$(pwd)":/"dirlocation" --name blender ubuntu /bin/bash".
+This script will install needed dependecies for Blender (command line) and downloads Blender (standalone) to work in Docker container (only for Linux, Ubuntu based distros). You have to have installed Docker https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce-1 and run in terminal something like "docker run -it --rm -v "$(pwd)":/"dirlocation" --name blender ubuntu /bin/bash".
 
 --rm info here https://docs.docker.com/engine/reference/commandline/rm/
 
