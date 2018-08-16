@@ -7,4 +7,12 @@ This script will install needed dependecies for Blender (command line) and downl
 
 --name info here https://blog.codeship.com/the-basics-of-the-docker-run-command/
 
-and when set up, install git "apt-get update && apt-get install git", then git clone https://github.com/Orasporas/Blender-3D-stuff.git (or with ssh), then "cd Blender-3D-stuff" and run ". blenderdocker.sh".
+and when set up, 
+
+install git "apt-get update && apt-get install git",
+
+then git clone https://github.com/Orasporas/Blender-3D-stuff.git (or with ssh), 
+
+then "cd Blender-3D-stuff" 
+
+and run ". blenderdocker.sh".
