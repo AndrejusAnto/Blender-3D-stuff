@@ -47,4 +47,4 @@ echo "A python file location"
 
 read pyscript
 
-./blender blend --background --python pyscript
+./blender $blend --background --python $pyscript
